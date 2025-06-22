@@ -6,8 +6,8 @@ Saya seorang **mahasiswa** yang sangat tertarik dengan dunia teknologi, khususny
 
 - 🔭 Sedang mendalami kernel dan fondasi sistem operasi
 - 🎯 Target utama: Menjadi Full Stack Developer yang andal
-- 💤 Hobi: Tidur (karena otak butuh istirahat untuk tetap kreatif!)
-- 🤝 Terbuka untuk kolaborasi, diskusi, dan belajar bersama
+- 💤 Hobi: Tidur 
+
 
 ## 📫 Hubungi Saya
 
