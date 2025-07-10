@@ -5,7 +5,7 @@
 ## 🚀 Tentang Saya
 
 - 🔭 Kernel Adalah Sesuatu Yang Menyenangkan
-- 🎯 Target = Full Stack Developer ( **Kalo Jadi**)
+- 🎯 Target = Full Stack Developer (**Kalo Jadi**)
 - 💤 Hobi = Tidur
 
 
