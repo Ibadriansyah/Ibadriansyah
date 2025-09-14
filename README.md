@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 - 🔭 Kernel Adalah Sesuatu Yang Menyenangkan  
 - 🎯 Target = Full Stack Developer (**Kalo Jadi**)  
 - 💤 Hobi = Tidur  
@@ -18,12 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7F7&center=true&vCenter=true&width=600&lines=Halo+Saya+ibad!;Kernel+Itu+Menyenangkan;Full+Stack+Developer+(Semoga);Tidur+Adalah+Hobi+Terbaik+😴" />
 </p>
 
----
 
-## 🛠️
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadriansyah&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python, c, css, html" />
