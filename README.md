@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://tenor.com/id/view/fox-fox-girl-gif-6680118806096799072" width="400"/>
+  <img src="https://media.tenor.com/0I8dV_Ff4KYAAAAP/mythikore-anime-girl.gif" alt="anime girl" width="300"/>
 </p>
-
 ---
 
 <!-- Banner Animasi Atas -->
