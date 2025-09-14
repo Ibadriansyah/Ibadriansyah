@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-wave.gif" width="400"/>
+  <img src="https://tenor.com/id/view/fox-fox-girl-gif-6680118806096799072" width="400"/>
 </p>
 
 ---
