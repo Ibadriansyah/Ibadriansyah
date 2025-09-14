@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/anime-wave.gif" width="400"/>
+</p>
+
+---
+
 <!-- Banner Animasi Atas -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7f7&height=200&section=header&text=Halo%20Saya%20ibad!&fontSize=40&fontColor=0d1117&animation=fadeIn" />
