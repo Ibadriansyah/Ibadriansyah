@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.tenor.com/0I8dV_Ff4KYAAAAP/mythikore-anime-girl.gif" alt="anime girl" width="300"/>
 </p>
+
 ---
 
 <!-- Banner Animasi Atas -->
